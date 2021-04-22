@@ -1,0 +1,4 @@
+01-04-2021 20:19:00 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+01-04-2021 20:19:00 [main] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 6.4.4 by Redgate
+01-04-2021 20:19:00 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+01-04-2021 20:19:00 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

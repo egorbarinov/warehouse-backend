@@ -1,0 +1,4 @@
+01-04-2021 20:21:14 [main] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:postgresql://localhost:5432/postgres (PostgreSQL 13.2)
+01-04-2021 20:21:14 [main] WARN  o.f.c.i.database.base.Database - Flyway upgrade recommended: PostgreSQL 13.2 is newer than this version of Flyway and support has not been tested. The latest supported version of PostgreSQL is 12.
+01-04-2021 20:21:14 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 2 migrations (execution time 00:00.014s)
+01-04-2021 20:21:14 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "command_project": 1

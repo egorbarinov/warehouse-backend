@@ -1,0 +1,17 @@
+server:
+  servlet:
+    context-path: /test
+  port: 8190
+spring:
+  flyway:
+    locations: classpath:/db/testdata
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:mydatabase;MODE=PostgreSQL
+    username: test
+    password: test
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        dialect:org.gibernate.dialect.H2Dialect

@@ -1,0 +1,4 @@
+01-04-2021 21:05:12 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8189 (http) with context path ''
+01-04-2021 21:05:12 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+01-04-2021 21:05:12 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
+01-04-2021 21:05:12 [main] INFO  r.r.i.Ideas4transferApplication - Started Ideas4transferApplication in 5.158 seconds (JVM running for 5.927)

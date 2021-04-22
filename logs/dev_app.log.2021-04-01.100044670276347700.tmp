@@ -1,0 +1,3 @@
+01-04-2021 21:00:48 [http-nio-8189-exec-2] INFO  r.r.i.s.d.DeliveryServiceImpl - Working method DeliveryService findByDeliveryDateLessThanEqual: 2021-06-23
+01-04-2021 21:05:07 [main] INFO  r.r.i.Ideas4transferApplication - Starting Ideas4transferApplication on DESKTOP-NT8UEJN with PID 12192 (C:\Users\Dell-PC\IdeaProjects\commandProject\target\classes started by Dell-PC in C:\Users\Dell-PC\IdeaProjects\commandProject)
+01-04-2021 21:05:07 [main] INFO  r.r.i.Ideas4transferApplication - The following profiles are active: dev

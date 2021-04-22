@@ -1,0 +1,3 @@
+08-04-2021 11:42:27 [main] INFO  r.r.i.Ideas4transferApplication - Starting Ideas4transferApplication on DESKTOP-NT8UEJN with PID 11796 (C:\Users\Dell-PC\IdeaProjects\commandProject\target\classes started by Dell-PC in C:\Users\Dell-PC\IdeaProjects\commandProject)
+08-04-2021 11:42:27 [main] INFO  r.r.i.Ideas4transferApplication - The following profiles are active: dev
+08-04-2021 11:42:28 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.

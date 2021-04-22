@@ -1,0 +1,1 @@
+20-04-2021 22:08:54 [task-1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'

@@ -1,0 +1,4 @@
+01-04-2021 20:34:58 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "command_project" is up to date. No migration necessary.
+01-04-2021 20:34:58 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+01-04-2021 20:34:58 [task-1] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-04-2021 20:34:58 [task-1] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.22.Final

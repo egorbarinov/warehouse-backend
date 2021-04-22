@@ -1,0 +1,8 @@
+01-04-2021 20:16:03 [main] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:postgresql://localhost:5432/postgres (PostgreSQL 13.2)
+01-04-2021 20:16:03 [main] WARN  o.f.c.i.database.base.Database - Flyway upgrade recommended: PostgreSQL 13.2 is newer than this version of Flyway and support has not been tested. The latest supported version of PostgreSQL is 12.
+01-04-2021 20:16:03 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 2 migrations (execution time 00:00.013s)
+01-04-2021 20:16:03 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "command_project": 1
+01-04-2021 20:16:03 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "command_project" is up to date. No migration necessary.
+01-04-2021 20:16:03 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+01-04-2021 20:16:03 [task-1] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-04-2021 20:16:03 [task-1] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.22.Final

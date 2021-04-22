@@ -1,0 +1,3 @@
+01-04-2021 20:59:19 [http-nio-8189-exec-3] INFO  r.r.i.s.d.DeliveryServiceImpl - Working method DeliveryType save: null is null, create new
+01-04-2021 20:59:19 [http-nio-8189-exec-3] WARN  r.r.i.exception.ErrorDetails - ErrorDetails: timestamp: Thu Apr 01 20:59:19 MSK 2021, message: null, details: uri=/api/v1/deliveries
+01-04-2021 20:59:19 [http-nio-8189-exec-3] WARN  r.r.i.e.GlobalExceptionHandler - globalExceptionHandler: ErrorDetails@70f5ad8f

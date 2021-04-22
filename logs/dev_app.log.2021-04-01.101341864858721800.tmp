@@ -1,0 +1,1 @@
+01-04-2021 20:18:19 [http-nio-8189-exec-6] ERROR r.r.i.security.jwt.JwtAuthEntryPoint - Unauthorized error. Message - Full authentication is required to access this resource

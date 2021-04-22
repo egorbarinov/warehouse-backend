@@ -1,0 +1,4 @@
+20-04-2021 21:41:34 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 2 migrations (execution time 00:00.017s)
+20-04-2021 21:41:34 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "command_project": 1
+20-04-2021 21:41:34 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "command_project" is up to date. No migration necessary.
+20-04-2021 21:41:34 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'

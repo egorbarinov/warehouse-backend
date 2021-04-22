@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.flyway.baseline-on-migrate",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.flyway.baseline-on-migrate."
+    },
+    {
+      "name": "dreamTeam.app.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for dreamTeam.app.jwtSecret."
+    },
+    {
+      "name": "dreamTeam.app.jwtExpiration",
+      "type": "java.lang.String",
+      "description": "Description for dreamTeam.app.jwtExpiration."
+    }
+  ] }

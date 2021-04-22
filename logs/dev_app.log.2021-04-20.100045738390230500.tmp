@@ -1,0 +1,6 @@
+20-04-2021 21:41:15 [SpringContextShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+20-04-2021 21:41:15 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+20-04-2021 21:41:15 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+20-04-2021 21:41:15 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+20-04-2021 21:41:31 [main] INFO  r.r.i.s.d.DeliveryServiceImplTest - Starting DeliveryServiceImplTest on DESKTOP-AQG0H1S with PID 13984 (started by Dell-PC in C:\Users\Dell-PC\IdeaProjects\commandProject)
+20-04-2021 21:41:31 [main] INFO  r.r.i.s.d.DeliveryServiceImplTest - The following profiles are active: dev

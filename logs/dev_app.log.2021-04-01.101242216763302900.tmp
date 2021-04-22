@@ -1,0 +1,2 @@
+01-04-2021 20:24:14 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
+01-04-2021 20:24:14 [main] INFO  r.r.i.Ideas4transferApplication - Started Ideas4transferApplication in 5.298 seconds (JVM running for 6.034)

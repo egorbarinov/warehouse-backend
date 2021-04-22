@@ -1,0 +1,4 @@
+08-04-2021 11:42:28 [main] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 6.4.4 by Redgate
+08-04-2021 11:42:28 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+08-04-2021 11:42:29 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+08-04-2021 11:42:29 [main] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:postgresql://localhost:5432/postgres (PostgreSQL 13.2)

@@ -1,0 +1,2 @@
+20-04-2021 21:41:33 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+20-04-2021 21:41:33 [main] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 6.4.4 by Redgate

@@ -1,0 +1,2 @@
+01-04-2021 20:28:15 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/swagger-config'], []
+01-04-2021 20:28:15 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/webjars/**'], []

@@ -1,0 +1,2 @@
+01-04-2021 20:24:14 [http-nio-8189-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+01-04-2021 20:24:15 [http-nio-8189-exec-4] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 405 ms

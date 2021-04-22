@@ -1,0 +1,6 @@
+01-04-2021 20:42:49 [http-nio-8189-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01-04-2021 20:42:49 [http-nio-8189-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01-04-2021 20:42:49 [http-nio-8189-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+01-04-2021 20:42:49 [http-nio-8189-exec-1] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 288 ms
+01-04-2021 20:58:52 [main] INFO  r.r.i.Ideas4transferApplication - Starting Ideas4transferApplication on DESKTOP-NT8UEJN with PID 10028 (C:\Users\Dell-PC\IdeaProjects\commandProject\target\classes started by Dell-PC in C:\Users\Dell-PC\IdeaProjects\commandProject)
+01-04-2021 20:58:52 [main] INFO  r.r.i.Ideas4transferApplication - The following profiles are active: dev

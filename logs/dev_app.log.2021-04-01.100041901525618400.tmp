@@ -1,0 +1,6 @@
+01-04-2021 20:18:31 [http-nio-8189-exec-10] ERROR r.r.i.security.jwt.JwtAuthEntryPoint - Unauthorized error. Message - Full authentication is required to access this resource
+01-04-2021 20:18:31 [http-nio-8189-exec-9] ERROR r.r.i.security.jwt.JwtAuthEntryPoint - Unauthorized error. Message - Full authentication is required to access this resource
+01-04-2021 20:18:31 [http-nio-8189-exec-8] ERROR r.r.i.security.jwt.JwtAuthEntryPoint - Unauthorized error. Message - Full authentication is required to access this resource
+01-04-2021 20:18:58 [main] INFO  r.r.i.Ideas4transferApplication - Starting Ideas4transferApplication on DESKTOP-NT8UEJN with PID 12700 (C:\Users\Dell-PC\IdeaProjects\commandProject\target\classes started by Dell-PC in C:\Users\Dell-PC\IdeaProjects\commandProject)
+01-04-2021 20:18:58 [main] INFO  r.r.i.Ideas4transferApplication - The following profiles are active: dev
+01-04-2021 20:18:59 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.

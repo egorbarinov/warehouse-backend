@@ -1,0 +1,4 @@
+08-04-2021 11:42:29 [main] WARN  o.f.c.i.database.base.Database - Flyway upgrade recommended: PostgreSQL 13.2 is newer than this version of Flyway and support has not been tested. The latest supported version of PostgreSQL is 12.
+08-04-2021 11:42:29 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 2 migrations (execution time 00:00.019s)
+08-04-2021 11:42:29 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "command_project": 1
+08-04-2021 11:42:29 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "command_project" is up to date. No migration necessary.

@@ -1,0 +1,4 @@
+01-04-2021 21:10:09 [http-nio-8189-exec-8] INFO  r.r.i.s.d.DeliveryServiceImpl - Working method DeliveryService findByDeliveryDateIsBetween: firstDate 2021-04-01, LastDate 2021-07-01
+01-04-2021 21:12:09 [main] INFO  r.r.i.Ideas4transferApplication - Starting Ideas4transferApplication on DESKTOP-NT8UEJN with PID 1348 (C:\Users\Dell-PC\IdeaProjects\commandProject\target\classes started by Dell-PC in C:\Users\Dell-PC\IdeaProjects\commandProject)
+01-04-2021 21:12:09 [main] INFO  r.r.i.Ideas4transferApplication - The following profiles are active: dev
+01-04-2021 21:12:10 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
